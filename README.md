@@ -13,3 +13,8 @@ A simple counter application that uses React-Redux to create a global store and 
 - Redux
 - React-Redux
 - Redux-Thunk
+
+## Other basic Redux repositories
+
+[Redux Saga Class Components](https://github.com/ChristopherDalziel/redux-saga-example) <br />
+[Redux Saga Hooks](https://github.com/ChristopherDalziel/redux-saga-hooks-example)
